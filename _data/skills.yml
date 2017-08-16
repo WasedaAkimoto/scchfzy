@@ -1,28 +1,28 @@
--   id: javascript
+-   id: C++
     descr: javascript    
     xp: 6
--   id: css
+-   id: EDA Tools
     descr: css
     color: teal
     xp: 7
--   id: c#
+-   id: JAVA
     descr: c#    
     xp: 3
--   id: angular
+-   id: Office suits
     descr: angularjs    
     xp: 8
--   id: java
+-   id: Adobe series
     descr: java    
     xp: 5
--   id: sass
+-   id: Photography
     descr: sass    
     xp: 4
--   id: jquery
+-   id: Japanese
     descr: jquery    
     xp: 3
--   id: node.js
+-   id: Web Design
     descr: node.js 
     xp: 2
--   id: php
+-   id: Singing
     descr: php
     xp: 4
